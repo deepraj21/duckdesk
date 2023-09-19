@@ -1,5 +1,7 @@
 <h1 align="center">DUCKDESK</h1>
 
+DUCKDESK is a comprehensive WordPress blog website with various pages and categories. Here's a brief description of each section you mentioned:
+
 **Home Page:**
 - The home page serves as the landing page for your website, providing an attractive and engaging introduction.
 - It features the latest blog posts, allowing visitors to see the most recent content.
@@ -28,6 +30,7 @@
 
 Overall, DUCKDESK appears to be an excellent platform for school students to express themselves, learn valuable skills, and share their thoughts on various topics. It's well-organized with categories, and the contact and about us sections add a personal touch to the site. Keep updating it with fresh content to engage your audience and encourage students to continue their blogging journey.
 
+## Website Preview:
 <img src="templates/img1.png">
 <img src="templates/img2.png">
 <img src="templates/img3.png">
